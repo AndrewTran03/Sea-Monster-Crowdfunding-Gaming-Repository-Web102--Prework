@@ -23,7 +23,7 @@ Here's a walkthrough of implemented features:
 <img src='./web102-prework-walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LICECap](https://www.cockos.com/licecap/)
+GIF created with LICECap. Click [here](https://www.cockos.com/licecap/) for more information about this recording tool and further documentation.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -33,7 +33,7 @@ GIF created with [LICECap](https://www.cockos.com/licecap/)
 
 Describe any challenges encountered while building the app:
 
-- I had some slight challenges with learning Arrow Functions since I typically use the more standard convention of writing out functions in JavaScript (e.g. 'function _name of function_ (_arguments_)'), so this was something I had to learn in order to successfully complete this assignment.
+- I had some slight challenges with learning Arrow Functions since I typically use the more standard convention of writing out functions in JavaScript (e.g. 'function <name of function> (<arguments>), so this was something I had to learn in order to successfully complete this assignment.
 
 - For all of the other parts of this assignment, I was able to complete it fine because I had previous experience with basic HTML, CSS, and (Vanilla) JavaScript.
 
