@@ -23,7 +23,7 @@ Here's a walkthrough of implemented features:
 <img src='./web102-prework-walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LICECap. Click [here](https://www.cockos.com/licecap/) for more information about this recording tool and further documentation.
+GIF created with LICECap. Click [here](https://www.cockos.com/licecap/) for more information about this recording tool and additional documentation.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
